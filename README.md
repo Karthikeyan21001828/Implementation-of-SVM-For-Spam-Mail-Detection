@@ -62,7 +62,19 @@ accuracy
 ```
 
 ## Output:
-![SVM For Spam Mail Detection](sam.png)
+![op1](op1.png)
+
+![op1](op2.png)
+
+![op1](op3.png)
+
+![op1](op4.png)
+
+![op1](op5.png)
+
+![op1](op6.png)
+
+![op1](op7.png)
 
 
 ## Result:
